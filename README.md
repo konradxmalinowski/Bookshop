@@ -10,7 +10,7 @@ A simple Java console application for managing a small library of books.
 - Find a book by its title  
 - Exit the application
 
-## ▶️ How to Run
+##  How to Run
 
 1. **Clone the repository:**
    ```sh
